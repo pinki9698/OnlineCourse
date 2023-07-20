@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/OnlineCourse/static/css/main.b6676ae2.css",
+    "main.js": "/OnlineCourse/static/js/main.a4d30bb7.js",
+    "static/js/787.2f3ebd15.chunk.js": "/OnlineCourse/static/js/787.2f3ebd15.chunk.js",
+    "static/media/web.avif": "/OnlineCourse/static/media/web.e59e6cf87c81c1969e57.avif",
+    "static/media/hero-img.png": "/OnlineCourse/static/media/hero-img.53f1b5467e5095dc4126.png",
+    "static/media/marketing.avif": "/OnlineCourse/static/media/marketing.da03ab371d6f1aef6c80.avif",
+    "static/media/software.avif": "/OnlineCourse/static/media/software.10f62a78a6d1d50fdef8.avif",
+    "static/media/digital.avif": "/OnlineCourse/static/media/digital.2820a11d3518c1dacdff.avif",
+    "static/media/app.webp": "/OnlineCourse/static/media/app.27dd1e1dbc3f27fdd226.webp",
+    "static/media/android.avif": "/OnlineCourse/static/media/android.5e443bcb6718f318b1be.avif",
+    "index.html": "/OnlineCourse/index.html",
+    "main.b6676ae2.css.map": "/OnlineCourse/static/css/main.b6676ae2.css.map",
+    "main.a4d30bb7.js.map": "/OnlineCourse/static/js/main.a4d30bb7.js.map",
+    "787.2f3ebd15.chunk.js.map": "/OnlineCourse/static/js/787.2f3ebd15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b6676ae2.css",
+    "static/js/main.a4d30bb7.js"
+  ]
+}
